@@ -51,7 +51,7 @@
 		05B13A7B1F6E54C200669037 = {
 			isa = PBXGroup;
 			children = (
-				05B13A861F6E54C200669037 /* MapPinPLiist */,
+				05B13A861F6E54C200669037 /* MapPinPList */,
 				05B13A851F6E54C200669037 /* Products */,
 				05B13A991F6E553200669037 /* Frameworks */,
 			);
@@ -65,7 +65,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		05B13A861F6E54C200669037 /* MapPinPLiist */ = {
+		05B13A861F6E54C200669037 /* MapPinPList */ = {
 			isa = PBXGroup;
 			children = (
 				05B13AA21F6E7B8500669037 /* Songsang.png */,
@@ -80,6 +80,7 @@
 				05B13A901F6E54C200669037 /* LaunchScreen.storyboard */,
 				05B13A931F6E54C200669037 /* Info.plist */,
 			);
+			name = MapPinPList;
 			path = MapPinPLiist;
 			sourceTree = "<group>";
 		};
@@ -296,7 +297,7 @@
 				DEVELOPMENT_TEAM = UQ37D35Z4Z;
 				INFOPLIST_FILE = MapPinPLiist/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = kr.ac.ditapps.MapPinPLiist;
+				PRODUCT_BUNDLE_IDENTIFIER = kr.ac.ditapps.MapPinPList;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -309,7 +310,7 @@
 				DEVELOPMENT_TEAM = UQ37D35Z4Z;
 				INFOPLIST_FILE = MapPinPLiist/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = kr.ac.ditapps.MapPinPLiist;
+				PRODUCT_BUNDLE_IDENTIFIER = kr.ac.ditapps.MapPinPList;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
