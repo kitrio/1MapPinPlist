@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "05B13A831F6E54C200669037"
-               BuildableName = "MapPinPLiist.app"
-               BlueprintName = "MapPinPLiist"
-               ReferencedContainer = "container:MapPinPLiist.xcodeproj">
+               BuildableName = "MapPinPList.app"
+               BlueprintName = "MapPinPList"
+               ReferencedContainer = "container:MapPinPList.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "05B13A831F6E54C200669037"
-            BuildableName = "MapPinPLiist.app"
-            BlueprintName = "MapPinPLiist"
-            ReferencedContainer = "container:MapPinPLiist.xcodeproj">
+            BuildableName = "MapPinPList.app"
+            BlueprintName = "MapPinPList"
+            ReferencedContainer = "container:MapPinPList.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "05B13A831F6E54C200669037"
-            BuildableName = "MapPinPLiist.app"
-            BlueprintName = "MapPinPLiist"
-            ReferencedContainer = "container:MapPinPLiist.xcodeproj">
+            BuildableName = "MapPinPList.app"
+            BlueprintName = "MapPinPList"
+            ReferencedContainer = "container:MapPinPList.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "05B13A831F6E54C200669037"
-            BuildableName = "MapPinPLiist.app"
-            BlueprintName = "MapPinPLiist"
-            ReferencedContainer = "container:MapPinPLiist.xcodeproj">
+            BuildableName = "MapPinPList.app"
+            BlueprintName = "MapPinPList"
+            ReferencedContainer = "container:MapPinPList.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
